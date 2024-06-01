@@ -1,3 +1,1 @@
-local KeySystemEnabled = true
-
-return KeySystemEnabled
+false
